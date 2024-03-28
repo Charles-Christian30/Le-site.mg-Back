@@ -1,0 +1,6 @@
+@Le_site.mg_HostAddress = http://localhost:5137
+
+GET {{Le_site.mg_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
